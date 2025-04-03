@@ -1,0 +1,20 @@
+{
+    "pergunta": "quero feijoada",
+    "resposta": "Compreendo que desejas preparar uma feijoada. Aqui estão os produtos que precisas:",
+    "detalhes": {
+        "produtos_sugeridos": [
+            "feijão preto  ",
+            "carne de porco  ",
+            "linguiça  ",
+            "cachaça  ",
+            "alho  ",
+            "cebola  ",
+            "tomate  ",
+            "lorbeer  ",
+            "sal  ",
+            "pimenta  ",
+            "azeite  ",
+            "arroz  "
+        ]
+    }
+}
